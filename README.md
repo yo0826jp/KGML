@@ -11,6 +11,8 @@ python train_kgml.py [option] [dataset]
 ### Dataset
 FB15k, WN18 or WD40k.
 ### Option
+Option | Description
+-----------| ------------
 -d1 | Hyperparameter dim1. Integer. Default value is 100.
 -d2 | Hyperparameter dim2. Integer. Default value is 100.
 -a | Hyperparameter alpha. Float in [0,1]. Default value is 1.0.
