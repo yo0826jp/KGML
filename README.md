@@ -1,4 +1,4 @@
-# RDFDNN
+# KGML
 # INTRODUCTION
 Predicting relations in Knowledge Graph by Multi-Label Deep Neural Network.
 
